@@ -1,0 +1,2 @@
+//@no-log
+GET {{host}}:8088/users/delete?id=0

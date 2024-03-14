@@ -1,0 +1,9 @@
+//@no-log
+POST {{host}}:8088/users/update
+Content-Type: application/json
+
+{
+  "id": 5,
+  "name": "mike"
+}
+###
