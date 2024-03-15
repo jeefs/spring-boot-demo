@@ -3,7 +3,7 @@ POST {{host}}:8088/users/mybatis/insert
 Content-Type: application/json
 
 {
-
+  "name": "mike",
+  "age": 18
 }
-
 ###
